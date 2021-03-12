@@ -1,0 +1,10 @@
+truststore:
+  path: "kafka.client.truststore.jks"
+  password: "changeit"
+
+kafka:
+  bss: "rocket-01.srvs.cloudkafka.com:9094,rocket-02.srvs.cloudkafka.com:9094,rocket-03.srvs.cloudkafka.com:9094"
+  username: "15viraee"
+  password: "b_NxhqWFFNtMf8tC5u11cfkcbXfo3w7I"
+  topic: "15viraee-tutorial"
+  
